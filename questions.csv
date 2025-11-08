@@ -1,0 +1,9 @@
+question,optionA,optionB,optionC,optionD,answer
+"你最喜歡的顏色是？","紅色","藍色","綠色","黃色",2
+"太陽系中距離地球最近的行星是？","金星","火星","水星","木星",1
+"p5.js 中用來畫圓的函式是？","rect()","ellipse()","line()","arc()",2
+"HTML 中放圖片的標籤是？","<img>","<a>","<p>","<div>",1
+"5 + 7 = ?","10","11","12","13",3
+"CSS 用來改變文字顏色的屬性是？","font-size","color","margin","padding",2
+"JavaScript 宣告變數常用的關鍵字是？","func","var","css","html",2
+"網頁中 <a> 標籤主要用途是？","插入圖片","建立連結","顯示表格","定義段落",2
